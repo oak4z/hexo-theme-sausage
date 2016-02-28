@@ -28,7 +28,7 @@ PC端效果
 
 移动端效果
 
-![](http://i12.tietuku.com/b6fe422b962997eb.png)
+![](http://i11.tietuku.com/f53851d5df4cea1e.png)
 
 
 ## config 配置
