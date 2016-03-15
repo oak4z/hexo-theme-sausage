@@ -6,7 +6,7 @@ hexo-theme-sausage
 
 可以点击我的[个人博客](http://qbeenslee.com)查看效果, 手机可以扫码:
 
-![demo](http://i12.tietuku.com/4ad132fd08ea059a.png)
+![demo](https://raw.githubusercontent.com/qbeenslee/ART/master/hexo-theme-sausage/03152016202908.png)
 
 ## install 安装
 
@@ -24,11 +24,11 @@ git pull
 
 PC端效果
 
-![](http://i12.tietuku.com/892628eb4f8eaafd.png)
+![](https://raw.githubusercontent.com/qbeenslee/ART/master/hexo-theme-sausage/03152016202909.png)
 
 移动端效果
 
-![](http://i11.tietuku.com/f53851d5df4cea1e.png)
+![](https://raw.githubusercontent.com/qbeenslee/ART/master/hexo-theme-sausage/03152016202907.png)
 
 
 ## config 配置
