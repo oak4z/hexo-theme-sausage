@@ -42,6 +42,10 @@
 		opacity:1;
 		transition:all .2s ease-in;
 		height:100%;
+        -webkit-user-select: none;
+        user-select: none;
+        -webkit-touch-callout: none;
+        cursor: default !important;
 
 		.intrude-less {
 			width: 90%;
@@ -156,12 +160,12 @@
 	}
 }
 
-.duoshuo{
-	padding: 0 40px;
-}
 
-#disqus_thread{
-	padding: 0 40px;
+.block-select{
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    user-select: none;
+    cursor: default !important;
 }
 
 .meta-on-right{
@@ -173,3 +177,9 @@
     text-align: center;
     z-index: 1
 }
+
+.top-article-container{
+    float: left !important;
+    margin: 10px 0px 40px 0px;
+}
+
