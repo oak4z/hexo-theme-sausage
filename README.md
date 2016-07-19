@@ -8,6 +8,10 @@ hexo-theme-sausage
 
 ![demo](https://raw.githubusercontent.com/qbeenslee/ART/master/hexo-theme-sausage/03152016202908.png)
 
+
+关于本Hexo主题的[详细说明](http://qbeenslee.com/article/hexo-theme-sausage-help/)
+
+
 ## install 安装
 
 ```
